@@ -21,7 +21,7 @@ After downloading the dataset locally, please modify your data paths by reproces
 - scipy
 - tqdm
 
-## Training and testing
+## Training
 
 
 Please change your data path and save path in libs/configs/defauli.py and execute 
