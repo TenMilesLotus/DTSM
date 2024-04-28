@@ -36,6 +36,3 @@ https://github.com/ZZR8066/SEM
 
 ## Reference
 Chen X., Chen B., Qu C., Peng D., Liu C., and Jin L. - International Conference on Document Analysis and Recognition (2024)
-=======
-# DTSM
-Code and data for the paper: DTSM: Toward Dense Table Structure Recognition with Text Query Encoder and Adjacent Feature Aggregator
